@@ -1,6 +1,6 @@
-[type-wiz](README.md) / Exports
+[ts-wiz](README.md) / Exports
 
-# type-wiz
+# ts-wiz
 
 ## Table of contents
 
@@ -46,7 +46,7 @@
 
 #### Defined in
 
-[index.ts:57](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L57)
+[index.ts:57](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L57)
 
 ---
 
@@ -70,7 +70,7 @@
 
 #### Defined in
 
-[index.ts:59](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L59)
+[index.ts:59](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L59)
 
 ---
 
@@ -80,7 +80,7 @@
 
 #### Defined in
 
-[index.ts:55](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L55)
+[index.ts:55](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L55)
 
 ---
 
@@ -104,7 +104,7 @@
 
 #### Defined in
 
-[index.ts:61](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L61)
+[index.ts:61](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L61)
 
 ---
 
@@ -124,7 +124,7 @@
 
 #### Defined in
 
-[index.ts:27](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L27)
+[index.ts:27](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L27)
 
 ---
 
@@ -143,7 +143,7 @@ Dictionary with type specified keys
 
 #### Defined in
 
-[index.ts:30](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L30)
+[index.ts:30](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L30)
 
 ---
 
@@ -160,7 +160,7 @@ Dictionary with type specified keys
 
 #### Defined in
 
-[index.ts:66](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L66)
+[index.ts:66](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L66)
 
 ---
 
@@ -170,7 +170,7 @@ Dictionary with type specified keys
 
 #### Defined in
 
-[index.ts:13](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L13)
+[index.ts:13](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L13)
 
 ---
 
@@ -187,7 +187,7 @@ Dictionary with type specified keys
 
 #### Defined in
 
-[index.ts:73](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L73)
+[index.ts:73](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L73)
 
 ---
 
@@ -203,7 +203,7 @@ Dictionary with type specified keys
 
 #### Defined in
 
-[index.ts:11](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L11)
+[index.ts:11](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L11)
 
 ---
 
@@ -231,7 +231,7 @@ type Merged = MergeBy<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:86](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L86)
+[index.ts:86](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L86)
 
 ---
 
@@ -247,7 +247,7 @@ type Merged = MergeBy<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:9](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L9)
+[index.ts:9](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L9)
 
 ---
 
@@ -265,7 +265,7 @@ type Merged = MergeBy<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:63](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L63)
+[index.ts:63](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L63)
 
 ---
 
@@ -281,7 +281,7 @@ type Merged = MergeBy<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:1](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L1)
+[index.ts:1](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L1)
 
 ---
 
@@ -291,7 +291,7 @@ type Merged = MergeBy<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:3](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L3)
+[index.ts:3](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L3)
 
 ---
 
@@ -309,7 +309,7 @@ Type can be undefined or null
 
 #### Defined in
 
-[index.ts:6](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L6)
+[index.ts:6](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L6)
 
 ---
 
@@ -319,7 +319,7 @@ Type can be undefined or null
 
 #### Defined in
 
-[index.ts:18](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L18)
+[index.ts:18](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L18)
 
 ---
 
@@ -351,7 +351,7 @@ type Subtracted = Subtract<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:97](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L97)
+[index.ts:97](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L97)
 
 ---
 
@@ -367,7 +367,7 @@ type Subtracted = Subtract<ObjectType1, ObjectType2>;
 
 #### Defined in
 
-[index.ts:15](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L15)
+[index.ts:15](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L15)
 
 ---
 
@@ -385,7 +385,7 @@ extracts type of resolved promise value
 
 #### Defined in
 
-[index.ts:50](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L50)
+[index.ts:50](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L50)
 
 ---
 
@@ -401,4 +401,4 @@ extracts type of resolved promise value
 
 #### Defined in
 
-[index.ts:35](https://github.com/milad-afkhami/type-wiz/blob/96dab1a/src/index.ts#L35)
+[index.ts:35](https://github.com/milad-afkhami/ts-wiz/blob/96dab1a/src/index.ts#L35)
