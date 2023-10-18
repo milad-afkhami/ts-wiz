@@ -13,7 +13,7 @@
     "format": "prettier --write .",
     "semantic-release": "semantic-release",
     "prepare": "husky install",
-    "docs": "npx typedoc src/index.ts --plugin typedoc-plugin-markdown && mv docs/modules.md ./README.md && rm -rf docs"
+    "docs": "npx typedoc src/index.ts --plugin typedoc-plugin-markdown"
   },
   "keywords": [
     "npm",
