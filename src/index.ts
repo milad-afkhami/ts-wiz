@@ -47,15 +47,6 @@ export type UnPromise<T extends Promise<unknown>> = T extends Promise<infer U>
   ? U
   : never;
 
-// Any
-export type AnyLiteral = Record<string, unknown>;
-
-export type AnyClass = new (...args: unknown[]) => unknown;
-
-export type AnyFunction = (...args: unknown[]) => unknown;
-
-export type AnyToVoidFunction = (...args: unknown[]) => void;
-
 export type NoneToVoidFunction = () => void;
 
 // Integer
