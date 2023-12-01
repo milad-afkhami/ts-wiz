@@ -2,7 +2,7 @@
   "private": false,
   "name": "ts-wiz",
   "description": "Typescript utility library",
-  "version": "0.1.2",
+  "version": "0.2.0",
   "main": "dist/index.js",
   "types": "dist/types/index.d.ts",
   "scripts": {
