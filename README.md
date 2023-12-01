@@ -16,6 +16,14 @@ Or using yarn:
 yarn add -D ts-wiz
 ```
 
+## Import
+
+All the utility types are exported with their name and you can import them like below:
+
+```typescript
+import type { XXX } from "ts-wiz";
+```
+
 ## Exports
 
 ### ValueOf
