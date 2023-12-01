@@ -26,12 +26,8 @@ export type Primitive =
 
 export type Dictionary<T = unknown> = { [key: string]: T };
 
-/** Dictionary with type specified keys */
-export type DynamicDictionary<K extends string | number, V> = Record<K, V>;
-
 // interface Tuple<T extends number, Len extends number> extends Array<T> { [key: number]: T; length: Len; }
 
-// type ValueOf<T> = T[keyof T];
 export type ValueOf<
   T extends
     | ReadonlyArray<unknown>
